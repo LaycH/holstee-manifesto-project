@@ -1,0 +1,188 @@
+******Holstee CSS********
+
+.framer {
+    padding: 20px;
+}
+
+p {
+	font-family: 'Merriweather', serif;
+	text-transform:uppercase;
+	font-weight:bold;
+	margin:2px;
+	padding:0px;
+}
+#first-div {
+	width:255px;
+	background:white;
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+.size-6 {
+	font-size:36px;
+}
+.size-3 {
+	font-size:23px;
+}
+.size-5 {
+	font-size:27px;
+}
+#second-div {
+	width:245px;
+	background:white;
+	margin:0px;
+	float:left;
+	font-size:90px;
+} 
+#third-div {
+	width:500px;
+	padding:0px;
+	margin:0px;
+	text-align: justify;
+	line-height:30px;
+	background:white;
+	clear:both;
+}
+.size-4 {
+	font-size:21px;
+}
+.size-7 {
+	font-size:23px;
+	word-spacing:11px;
+}
+.size-8 {
+	word-spacing:3px;
+}
+.size-9 {
+	font-size:21px;
+}
+.size-2 {
+	font-size:29px;
+	word-spacing:2px;
+}
+#fourth-div {
+	width:290px;
+	background:white;
+	padding:0px;
+	margin:0px;
+	float:left;
+}
+#fith-div {
+	width:210px;
+	background:white;
+	text-align:justify;
+	padding:0px;
+	float:left;
+	font-size:20px;
+}
+.size-1 {
+	font-size:22px;
+	word-spacing:5px;
+}
+.size-10 {
+	font-size:34px;
+}
+.size-11 {
+	font-size:12px;
+	word-spacing:3px;
+}
+#sixth-div {
+	width:500px;
+	background:white;
+	margin:0px;
+	padding:0px;
+	text-align:justify;
+	clear:both;
+}
+.size-12 {
+	font-size:22px;
+	line-height:38px;
+}
+.size-13 {
+	font-size:16px;
+	word-spacing:5px;
+}
+.size-14 {
+	font-size: 19px;
+	word-spacing:1px;
+}
+.size-15 {
+	font-size:16px;
+}
+#seventh-div {
+	width:280px;
+	background:white;
+	margin:0px;
+	padding:0px;
+	font-size:34px;
+	float:left;
+}
+#eighth-div {
+	width:220px;
+	background:white;
+	margin:0px;
+	padding:0px;
+	float:left;
+}
+.size-16 {
+	font-size:20px;
+}
+.size-17 {
+	font-size:15px;
+}
+#ninth-div {
+	width:500px;
+	background:white;
+	padding:0px;
+}
+.size-18 {
+	font-size:15px;
+	word-spacing:12px;
+}
+.size-19 {
+	font-size:18px;
+	word-spacing:12px;
+}
+.size-20 {
+	font-size:22px;
+	word-spacing:12px;
+}
+.size-21 {
+	font-size:25px;
+	word-spacing:12px;
+}
+#tenth-div {
+	width:200px;
+	background:white;
+	margin:0px;
+	padding:0px;
+	float:left;
+	font-size:50px;
+	word-spacing:15px;
+    line-height: 50px;
+    clear: both;
+}
+#eleventh-div {	
+	width:300px;
+	background:white;
+	margin:0px;
+	padding:0px;
+	line-height:34px;
+    float:left;
+	
+}
+.size-22 {
+	font-size:28px;
+	word-spacing:15px;
+	
+}
+.size-23 {
+	font-size:45px;
+	letter-spacing:3px;
+}
+.size-24 {
+	font-size:33px;
+	letter-spacing:3px;
+}
+
+	
